@@ -3,7 +3,7 @@
     <PropertyGroup>
         <TargetFrameworks>netstandard2.0</TargetFrameworks>
         <PackageId>Agero.Core.Api.Security</PackageId>
-        <PackageTags>rest, api</PackageTags>
+        <PackageTags>security, api</PackageTags>
         <Version>1.0.0</Version>
         <Authors>Core Automation Team</Authors>        
         <Company>Agero Inc.</Company>
